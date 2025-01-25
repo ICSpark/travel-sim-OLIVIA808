@@ -1,0 +1,17 @@
+#container {
+display: flex;
+justify-content: center;
+
+}
+.portals {
+    height: 200px;
+    margin: 30px;
+}
+body{
+     background-image: url("assets/portal-background.jpeg");
+     background-size: cover;
+}
+#header{
+    color: white;
+    text-align: center;
+}
